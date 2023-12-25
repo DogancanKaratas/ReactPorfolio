@@ -40,3 +40,12 @@
     text-decoration: none;
   }
 }
+
+@media (max-width: 1024px) {
+  .Contact {
+    .informations {
+      flex-direction: column;
+      gap: 50px;
+    }
+  }
+}
