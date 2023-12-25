@@ -1,0 +1,21 @@
+nav{
+    display: flex;
+    justify-content: end;
+    gap: 1rem;
+    padding: 0.8rem;
+    height: 54px;
+    align-items: center;
+    & a{
+        color: #fff;
+        text-decoration: none;
+        font-size: 1.3rem;
+        transition: all 0.3s ease-in-out;
+        &:hover{
+            color:orangered;
+        }      
+    }
+    & .active{
+        color:orangered;
+    }
+    
+}

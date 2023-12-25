@@ -1,0 +1,34 @@
+.red-span{
+    color: red;
+}
+
+.home-main{
+    min-height: calc(100vh - 110px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    & h1{
+        font-size: 4rem;
+        font-weight: 700;
+        // text-transform: uppercase;
+        letter-spacing: 2px;
+        margin-bottom: 1rem;
+        width: 100vw;
+        text-align: center;
+        border-bottom: 3px solid white;
+        padding-bottom: 1rem;
+        & span{
+            color: red;
+        }
+    }
+    & h3{
+        font-size: 2rem;
+        font-weight: 100;
+        margin-bottom: 1rem;
+        width: 100vw;
+        text-align: center;
+        
+    }
+}

@@ -1,0 +1,14 @@
+@import url(_reset.scss);
+
+
+body {
+    // min-height: 100vh;
+   background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)),url(../../public/img/photo.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    color: white;
+    
+
+}
