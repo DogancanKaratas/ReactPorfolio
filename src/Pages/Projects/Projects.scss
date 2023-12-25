@@ -25,7 +25,7 @@
     .image-area {
       width: calc(
         100% / 3 - 10px
-      ); // Her kart için genişliği %33.33 olarak ayarla, 10px boşluk bırak
+      );
       min-width: 30%;
       object-fit: cover;
       border-bottom: 3px solid orangered;
@@ -47,16 +47,16 @@
   }
 }
 
-// Ekran genişliği 768px veya daha küçükse, iki sütuna düşür
+
 @media (max-width: 1640px) {
   .projects .project-img .image-area {
-    width: calc(50% - 10px); // Her kart için genişliği %50 olarak ayarla
+    width: calc(50% - 10px); 
   }
 }
 
-// Ekran genişliği 480px veya daha küçükse, bir sütuna düşür
+
 @media (max-width: 1024px) {
   .projects .project-img .image-area {
-    width: 100%; // Tüm genişliği kapla
+    width: 100%; 
   }
 }

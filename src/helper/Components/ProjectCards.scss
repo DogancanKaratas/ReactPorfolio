@@ -2,6 +2,7 @@
     background-color:#272727;
     display: flex;
     justify-content: center;
+    padding: 0 5rem;
 
     & .pha {
         background-color:#414141;
@@ -11,11 +12,14 @@
         margin:0 0.5rem 0 0.5rem;
         margin-bottom: 1rem;
         border-bottom: 5px solid #ff652f;
-        // width: 100%;
+        width: 100%;
     }
     & .pha:nth-child(3) {
         margin-bottom: 15rem;
         
+    }
+    .container-project-card{
+        width: 100%;
     }
     
 }

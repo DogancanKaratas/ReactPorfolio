@@ -8,10 +8,7 @@ const About = () => {
       <div className="bio-text">
         <h1 className="bio-title">BIO</h1>
         <p className="bio-pha">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam
-          voluptatum, quaerat tempore officia omnis, velit sit facilis iure
-          iusto nisi est numquam sed doloremque assumenda impedit inventore
-          asperiores nostrum ipsum.
+        I am an engineer with a license in electrical electronics, always eager to learn new informaton in every field. Being a good and creative engineer has been my dream since my childhood. I am confident in teamwork and exchanging ideas with my teammates and I think I have developed leadership skills. I also believe that I can bring different visions to my colleagues and my company with my engineering perspective.
         </p>
       </div>
     </section>
