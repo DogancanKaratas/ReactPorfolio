@@ -32,7 +32,7 @@ const Contact = () => {
         <div className="icon">
           <IoLocationOutline /> Location
         </div>
-        <div  className="text">Erzurum/Palandöken</div>
+        <div  className="text">Turkey</div>
       </div>
       </div>
       
