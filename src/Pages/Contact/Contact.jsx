@@ -19,7 +19,7 @@ const Contact = () => {
       </div>
       
       <div className="phone">
-      <a href="tel:0555 555 55 55">
+      <a href="tel:0531 432 57 72">
         <div className="icon">
           <IoMdPhonePortrait /> Phone
         </div>
