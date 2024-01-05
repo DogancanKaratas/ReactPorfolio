@@ -23,7 +23,7 @@ const Contact = () => {
         <div className="icon">
           <IoMdPhonePortrait /> Phone
         </div>
-        <div  className="text">0555 555 55 55</div>
+        <div  className="text">531 432 57 72</div>
       </a>
       </div>
       
