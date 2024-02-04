@@ -17,6 +17,6 @@ React Portfolio, modern web teknolojilerini kullanarak oluşturulmuş bir kişis
 - React: Dinamik kullanıcı arayüzleri oluşturmak için.
 - Axios: HTTP istekleri gerçekleştirmek için.
 - Tailwind CSS: Modern ve duyarlı stil tasarımı için.
-- React Router: Sayfa yönlendirme ve navigasyon için.
+- React Router: Sayfa yönlendirme ve navigasyon için..
 
 # İletişim
